@@ -1,4 +1,4 @@
-export const compose = (...funcs) =>
+module.exports = (...funcs) =>
   val => {
     var fnList = [...funcs];
     while (fnList.length) {
