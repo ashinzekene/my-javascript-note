@@ -1,7 +1,7 @@
 # my-javascript-note
 
-## BEGINNING
 
+## JS FOUNDATIONS
 https://github.com/getify/You-Dont-Know-JS/
 
 ## JS DESIGN PATTERNS
